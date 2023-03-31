@@ -1,3 +1,4 @@
+<div align="center"><img src = "https://media3.giphy.com/media/u1WhXLjwgcXpHJBMRM/200.webp?cid=ecf05e47jnnhbxpbkop008lba1jro1zial7mith8156hws94&rid=200.webp&ct=g"></div>
 <h1 align="center">Hi 👋, I'm Abhishek Chauhan</h1>
 <h3 align="center">Acquiring the skills and knowledge necessary to develop the backend of a web application using the Spring Boot framework</h3>
 
