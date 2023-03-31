@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Chauhan</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">Acquiring the skills and knowledge necessary to develop the backend of a web application using the Spring Boot framework</h3>
 
 - 🌱 I’m currently learning **Spring Boot**
 
